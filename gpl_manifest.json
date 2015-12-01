@@ -1,0 +1,18 @@
+{
+  "remotes": {
+    "github": {
+      "type": "ssh",
+      "user": "git",
+      "url": "github.com",
+      "git_name": "origin"
+    }
+  },
+  "repositories": [
+    {
+      "remote": "github",
+      "user": "vidr-group",
+      "repo": "gpool",
+      "path": "gpool"
+    }
+  ]
+}

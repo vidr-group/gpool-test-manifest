@@ -1,9 +1,8 @@
 {
   "remotes": {
     "github": {
-      "type": "ssh",
-      "user": "git",
-      "url": "github.com",
+      "type": "https",
+      "url": "https://github.com",
       "git_name": "origin"
     }
   },
